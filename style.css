@@ -1,0 +1,27 @@
+.done {
+	text-decoration: line-through;
+}
+
+ul {
+	display: block;
+
+}
+
+.name {
+	display: inline-block;
+	width: 250px;
+	background-color: yellow;
+	padding: 5px;
+}
+
+.delete {
+	display: inline-block;
+	width: 100px;
+	background-color: #D3D2C6;
+	border-color: red;
+	border-width: 2px;
+}
+
+ul {
+	list-style-type: none;
+}
