@@ -1,2 +1,2 @@
-# ShoppingList
-The complete web developer in 2020 : Zero to matery : my solution to the exercise
+# JavaScript-DOM-Tutorial
+All course files for the JavaScrip DOM Tutorials on The Net Ninja YouTube channel.
